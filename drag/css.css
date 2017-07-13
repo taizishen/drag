@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+.box {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	border: 1px solid #AAAAAA;
+	top: 25px;
+	left: 80px;
+}
+
+.title {
+	width: 200px;
+	height: 200px;
+	line-height: 30px;
+	background-color: #F1F1F1;
+	cursor: move;
+}
